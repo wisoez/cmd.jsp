@@ -1,5 +1,7 @@
 ## A better cmd.jsp
 
+http://example.com/cmd/cmd.jsp?cmd=ls
+
 This is a jsp webshell that aims to provide command execution and file upload capability while being as small and widely compatible as possible. To do this, the code for the user interface and client side functionality is contained in javascript which is loaded locally (or hosted elsewhere).
 
 ### The files:
